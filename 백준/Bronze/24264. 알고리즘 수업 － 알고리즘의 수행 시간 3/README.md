@@ -43,4 +43,4 @@
 ### MEMO
 - MenOfPassion에서 이중반복문이 있고, 이 반복문은 n * n번 수행한다.
 - 시간복잡도: O(n^2)
-**!! int, long long 표현범위 생각하기 !!**
+- **!! int, long long 표현범위 생각하기 !!**
